@@ -4,7 +4,6 @@ import json
 
 # Set your OpenAI API key here
 openai.api_key = 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
-
 st.set_page_config(page_title="Geoff AI", layout="centered")
 
 st.title("🧠 Geoff AI — Strategic Communication Analyzer")
